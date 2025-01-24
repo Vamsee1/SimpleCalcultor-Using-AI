@@ -5,7 +5,7 @@ it offers intuitive functionality and an engaging user experience.**
 
 Key Features:
 ------------
-Arithmetic Operations: Perform addition, subtraction, multiplication, division, and percentage calculations.
+**Arithmetic Operations: Perform addition, subtraction, multiplication, division, and percentage calculations.
 Interactive Display: Real-time input and calculation display with error handling for invalid entries.
 Theme Toggle: Easily switch between light and dark themes for enhanced usability and accessibility.
 Responsive Design: Optimized for desktop, tablet, and mobile devices.**
